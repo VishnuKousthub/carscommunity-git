@@ -1,0 +1,2 @@
+a=("hey we have brought a new car")
+print(a)
