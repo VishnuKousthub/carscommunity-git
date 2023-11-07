@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello world</title>
+<link rel="stylesheet" href="pockt.css">
+</head>
+<body>
+
+<h1>This is git.</h1>
+<p>these are the changes done.</p>
+<div><img src="./sc2.jpeg" alt="pockt img" style="width:100%;max-width:950px"></div>
+<h2>This is my first repository file.</h2>
+<p>this is the new updated line in the file.</p>
+<p>these are the new emergency changes made to this file.</p>
+</body>
+</html>
